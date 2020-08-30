@@ -1,2 +1,2 @@
 # Reccomendation-systems-Implementation
-Implementing Matrix Factorisation and collaborative filtering methods
+Implementing Content based filtering and collaborative filtering(Matrix Factorisation) methods
