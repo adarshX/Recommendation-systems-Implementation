@@ -5,3 +5,6 @@ Implementing Content based filtering and collaborative filtering(Matrix Factoris
 ### 1. Cosine similairty
   * Time taken : 3-5 seconds on imdb data of 14332 movies
   * Accuracy acheived :  
+### 2. Modified Norm-Cosine similairty
+ * Time taken : 3 minutes on imdb data of 14332 movies
+  * Accuracy acheived :  
