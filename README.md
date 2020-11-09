@@ -16,4 +16,4 @@ Implementing Content based filtering and collaborative filtering(Matrix Factoris
  * MF on a subset of 10k ratings(data points) : Time taken = 10-12 min & RMSE = 0.016
  * Note : If we use pandas pivot function data conversion is done within secs. But if we use naive methods then timetaken for data conversion {entire dataset} : 14-15 mins. 
  ### Erro Plot (RMSE vs No.of Ratings) 
-![Image of Yaktocat](https://github.com/adarshX/Recommendation-systems-Implementation/blob/master/Matrix%20Factorization/RMSE_vs_datapoints.png)
+<img src="https://github.com/adarshX/Recommendation-systems-Implementation/blob/master/Matrix%20Factorization/RMSE_vs_datapoints.png" width="500" height="250" />
