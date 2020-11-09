@@ -9,7 +9,8 @@ Implementing Content based filtering and collaborative filtering(Matrix Factoris
  * Time taken : 3 minutes on imdb data of 14332 movies
   * Accuracy acheived :  
 
-## Method 2 : Matrix-Factroization
+## Method 2 : Matrix-Factroization (MF)
  * Dataset : 100k ratings by 1000 users on 10000 movies (Sparse dataset)
- * Timetaken for preprocessing and data conversion : 14-15 mins ( 7:45 mins + 6:20 mins)
+ * Timetaken for preprocessing and data conversion : 14-15 mins 
+ * MF on a subset of 1k ratings(data points) : Time taken = 1 min & RMSE = 0.267
  
