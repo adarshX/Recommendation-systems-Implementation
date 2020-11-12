@@ -24,4 +24,4 @@ Implementing Content based filtering and collaborative filtering(Matrix Factoris
    <img src = "https://github.com/adarshX/Recommendation-systems-Implementation/blob/master/Neural%20network%20Recommender%20system/accuracy_vs_training_size.png" />
    
    ### Top 10 recommendations prediction Accuracy Plot (prediction accuracy vs No.of datapoints)
-   <img src = "https://github.com/adarshX/Recommendation-systems-Implementation/blob/master/Neural%20network%20Recommender%20system/top10_accuracy.png" />
+   <img src =https://github.com/adarshX/Recommendation-systems-Implementation/blob/master/Neural%20network%20Recommender%20system/top10_accuracy.png  width = "500"/>
