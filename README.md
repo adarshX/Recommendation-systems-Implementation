@@ -1,5 +1,5 @@
 # Reccomendation-systems-Implementation
-Implementing Content based filtering and collaborative filtering(Matrix Factorisation) methods
+Implementing Content based filtering (similarity measures) ,  collaborative filtering(Matrix Factorisation) and Neural network based methods.
 
 ## Method 1 : Similarity Measures
 ### 1. Cosine similairty
